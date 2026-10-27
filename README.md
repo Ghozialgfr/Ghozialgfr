@@ -1,4 +1,4 @@
-Hi 👋! My name is Ghozi Al Gifari and I'm a Fullstack Web Developer & Designer, from Indonesia 🇮🇩
+Hi 👋! My name is Ghozi Al Gifari and I'm a Fullstack Web Developer & Graphic Design, from Indonesia
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
