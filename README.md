@@ -14,8 +14,8 @@ Hi 👋! My name is Ghozi Al Gifari and I'm a Fullstack Web Developer & Designer
 </p>
 
 <p align="left">
-  <a href="(https://www.instagram.com/ghozialgfr__?dlrf=MTBrdThwYm9rZzUxcw==)"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="(https://www.linkedin.com/in/ghozi-al-gifari-386519378?utm_source=share_via&utm_content=profile&utm_medium=member_android)"> 
+  <a href="https://www.instagram.com/ghozialgfr__?dlrf=MTBrdThwYm9rZzUxcw=="><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ghozi-al-gifari-386519378 utm_source=share_via&utm_content=profile&utm_medium=member_android)"> 
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="ghozialgifari36@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
